@@ -1,8 +1,8 @@
-langchain
-flask
+streamlit
+anthropic
+PyPDF2
 sentence-transformers
-pypdf
-python-dotenv
-langchain-pinecone
-langchain-openai
-langchain-community
+faiss-cpu
+numpy
+torch
+transformers
